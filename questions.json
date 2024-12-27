@@ -1,0 +1,67 @@
+[
+  {
+    "questionNo": "Q1",
+    "content":"<ol type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>",
+    "question": "<ol style='text-align:start' type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>How many persons are seated between K and F? ",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Can't be determined",
+      "None of these"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "content":"<ol type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>",
+    "question": "<ol style='text-align:start' type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>Who among the following is to the immediate left of F.",
+    "options": [
+      "G",
+      "J",
+      "I",
+      "Can't be determined",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3",
+    "content":"<ol type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>",
+    "question": "<ol style='text-align:start' type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>Who among the following is seated between E and H?",
+    "options": [
+      "I",
+      "J",
+      "F",
+      "Can't be determined",
+      "None of these"
+    ],
+    "correct": 4
+  },
+  {
+    "questionNo": "Q4",
+    "content":"<ol type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>",
+    "question": "<ol style='text-align:start' type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>Which of the following is true about J? ",
+    "options": [
+      "J is a male member.",
+      "J is a female member.",
+      "Sex of J cannot be determined.",
+      "Position of J cannot be determined.",
+      "None of these"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5",
+    "content":"<ol type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>",
+    "question": "<ol style='text-align:start' type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>Who among the following are the three lady members?",
+    "options": [
+      "E, H and J",
+      "E, G and J",
+      "G, H and J",
+      "Can't be determined",
+      "None of these"
+    ],
+    "correct": 4
+  }
+]

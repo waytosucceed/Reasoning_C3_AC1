@@ -1,0 +1,41 @@
+[
+  {
+    "questionNo": "Q8",
+    "content":"Four ladies A, B, C and D and four gentlemen E, F, G and H are sitting in a circle around a table facing each other.<ol type='i'><li>No two ladies or two gentlemen are sitting side by side.</li><li>C, who is sitting between G and E, is facing D.</li><li>F is between D and A and is facing G.</li><li>H is to the right of B</li></ol>",
+    "question": "Four ladies A, B, C and D and four gentlemen E, F, G and H are sitting in a circle around a table facing each other.<ol style='text-align:start' type='i'><li>No two ladies or two gentlemen are sitting side by side.</li><li>C, who is sitting between G and E, is facing D.</li><li>F is between D and A and is facing G.</li><li>H is to the right of B</li></ol>Who are immediate neighbours of B? ",
+    "options": [
+      "G and H",
+      "E and F",
+      "E and H",
+      "F and H",
+      "None of these"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9",
+    "content":"Four ladies A, B, C and D and four gentlemen E, F, G and H are sitting in a circle around a table facing each other.<ol type='i'><li>No two ladies or two gentlemen are sitting side by side.</li><li>C, who is sitting between G and E, is facing D.</li><li>F is between D and A and is facing G.</li><li>H is to the right of B</li></ol>",
+    "question": "Four ladies A, B, C and D and four gentlemen E, F, G and H are sitting in a circle around a table facing each other.<ol style='text-align:start' type='i'><li>No two ladies or two gentlemen are sitting side by side.</li><li>C, who is sitting between G and E, is facing D.</li><li>F is between D and A and is facing G.</li><li>H is to the right of B</li></ol>E is facing whom?",
+    "options": [
+      "F",
+      "B",
+      "G",
+      "H",
+      "None of these"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q10",
+    "content":"Four ladies A, B, C and D and four gentlemen E, F, G and H are sitting in a circle around a table facing each other.<ol type='i'><li>No two ladies or two gentlemen are sitting side by side.</li><li>C, who is sitting between G and E, is facing D.</li><li>F is between D and A and is facing G.</li><li>H is to the right of B</li></ol>",
+    "question": "Four ladies A, B, C and D and four gentlemen E, F, G and H are sitting in a circle around a table facing each other.<ol style='text-align:start' type='i'><li>No two ladies or two gentlemen are sitting side by side.</li><li>C, who is sitting between G and E, is facing D.</li><li>F is between D and A and is facing G.</li><li>H is to the right of B</li></ol>Who is sitting to the left of A? ",
+    "options": [
+      "E",
+      "F",
+      "G",
+      "H",
+      "None of these"
+    ],
+    "correct": 1
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "questionNo": "Q22",
+    "content":"<ol type='i'><li>Eleven students A, B, C, D, E, F, G, H, I, J and K are sitting in a row of the class facing the teacher.</li><li>D, who is to the immediate left of F, is second to the right of C.</li><li>A, is second to the right of E, who is at one of the ends.</li><li>J is the immediate neighbours of A and B and third to the left of G.</li><li>H is to the immediate left of D and third to the right of I.</li></ol>",
+    "question": "<ol style='text-align:start' type='i'><li>Eleven students A, B, C, D, E, F, G, H, I, J and K are sitting in a row of the class facing the teacher.</li><li>D, who is to the immediate left of F, is second to the right of C.</li><li>A, is second to the right of E, who is at one of the ends.</li><li>J is the immediate neighbours of A and B and third to the left of G.</li><li>H is to the immediate left of D and third to the right of I.</li></ol>If E and D, C and B, A and H & K and F interchange their positions, which of the following pairs of students is sitting at the end?",
+    "options": [
+      "D and E",
+      "E and F",
+      "D and K",
+      "K and F",
+      "None of these"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q23",
+    "content":"<ol type='i'><li>Eleven students A, B, C, D, E, F, G, H, I, J and K are sitting in a row of the class facing the teacher.</li><li>D, who is to the immediate left of F, is second to the right of C.</li><li>A, is second to the right of E, who is at one of the ends.</li><li>J is the immediate neighbours of A and B and third to the left of G.</li><li>H is to the immediate left of D and third to the right of I.</li></ol>",
+    "question": "<ol style='text-align:start' type='i'><li>Eleven students A, B, C, D, E, F, G, H, I, J and K are sitting in a row of the class facing the teacher.</li><li>D, who is to the immediate left of F, is second to the right of C.</li><li>A, is second to the right of E, who is at one of the ends.</li><li>J is the immediate neighbours of A and B and third to the left of G.</li><li>H is to the immediate left of D and third to the right of I.</li></ol>Which of the following statements is true in the context of the above sitting arrangements?",
+    "options": [
+      "There are three students sitting between D and G.",
+      "G and C are neighbours sitting to immediate right of H.",
+      "B is sitting between J and I.",
+      "K is sitting between A and J.",
+      "None of these"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q24",
+    "content":"<ol type='i'><li>Eleven students A, B, C, D, E, F, G, H, I, J and K are sitting in a row of the class facing the teacher.</li><li>D, who is to the immediate left of F, is second to the right of C.</li><li>A, is second to the right of E, who is at one of the ends.</li><li>J is the immediate neighbours of A and B and third to the left of G.</li><li>H is to the immediate left of D and third to the right of I.</li></ol>",
+    "question": "<ol style='text-align:start' type='i'><li>Eleven students A, B, C, D, E, F, G, H, I, J and K are sitting in a row of the class facing the teacher.</li><li>D, who is to the immediate left of F, is second to the right of C.</li><li>A, is second to the right of E, who is at one of the ends.</li><li>J is the immediate neighbours of A and B and third to the left of G.</li><li>H is to the immediate left of D and third to the right of I.</li></ol>In the above sitting arrangement, which of the following statements is superfluous?",
+    "options": [
+      "(i)",
+      "(ii)",
+      "(iii)",
+      "(iv)",
+      "None of superfluous"
+    ],
+    "correct": 4
+  }
+]

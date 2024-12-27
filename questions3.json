@@ -1,0 +1,41 @@
+[
+  {
+    "questionNo": "Q11",
+    "content":"Six girls are sitting in a circle. sonia is sitting opposite to Radhika. Poonam is sitting rieht of Radhika but left of the Deepti. Monika is sitting left of the Radhika. Kamini is sitting right of Sonia and left of Monika. Now Deepti and Kamini, Monika and Radhika mutually exchange their positions.",
+    "question": "Six girls are sitting in a circle. sonia is sitting opposite to Radhika. Poonam is sitting rieht of Radhika but left of the Deepti. Monika is sitting left of the Radhika. Kamini is sitting right of Sonia and left of Monika. Now Deepti and Kamini, Monika and Radhika mutually exchange their positions.<br>Who will be sitting left of Deepti?",
+    "options": [
+      "Sonia",
+      "Monika",
+      "Radhika",
+      "Poonam",
+      "Can't be determined"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12",
+    "content":"Six girls are sitting in a circle. sonia is sitting opposite to Radhika. Poonam is sitting rieht of Radhika but left of the Deepti. Monika is sitting left of the Radhika. Kamini is sitting right of Sonia and left of Monika. Now Deepti and Kamini, Monika and Radhika mutually exchange their positions.",
+    "question": "Six girls are sitting in a circle. sonia is sitting opposite to Radhika. Poonam is sitting rieht of Radhika but left of the Deepti. Monika is sitting left of the Radhika. Kamini is sitting right of Sonia and left of Monika. Now Deepti and Kamini, Monika and Radhika mutually exchange their positions.<br>Who will be sitting left of Kamini?",
+    "options": [
+      "Poonam",
+      "Deepti",
+      "Radhika",
+      " Sonia ",
+      "None of these"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13",
+    "content":"Six girls are sitting in a circle. sonia is sitting opposite to Radhika. Poonam is sitting rieht of Radhika but left of the Deepti. Monika is sitting left of the Radhika. Kamini is sitting right of Sonia and left of Monika. Now Deepti and Kamini, Monika and Radhika mutually exchange their positions.",
+    "question": "Six girls are sitting in a circle. sonia is sitting opposite to Radhika. Poonam is sitting rieht of Radhika but left of the Deepti. Monika is sitting left of the Radhika. Kamini is sitting right of Sonia and left of Monika. Now Deepti and Kamini, Monika and Radhika mutually exchange their positions.<br>Who will be opposite to Sonia? ",
+    "options": [
+      "Radhika",
+      "Monika",
+      "Kamini",
+      " Sonia ",
+      "None of these"
+    ],
+    "correct": 0
+  }
+]

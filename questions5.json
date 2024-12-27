@@ -1,0 +1,54 @@
+[
+  {
+    "questionNo": "Q18",
+    "content":"<ol type='i'><li>A, B, C, D, E, F, G and H are sitting in a row facing north.</li><li>A is fourth to the right of E.</li><li>H is fourth to the left of D.</li><li>C and F, which are not at the ends, are neighbours of B and E respectively.</li><li>H is next to the left of A and A is the neighbours of B.</li></ol>",
+    "question": "<ol style='text-align:start' type='i'><li>A, B, C, D, E, F, G and H are sitting in a row facing north.</li><li>A is fourth to the right of E.</li><li>H is fourth to the left of D.</li><li>C and F, which are not at the ends, are neighbours of B and E respectively.</li><li>H is next to the left of A and A is the neighbours of B.</li></ol>Who are sitting at the ends?",
+    "options": [
+      "E and C",
+      "F and D",
+      "G and B",
+      "Can't be determined",
+      "None of these"
+    ],
+    "correct": 4
+  },
+  {
+    "questionNo": "Q19",
+    "content":"<ol type='i'><li>A, B, C, D, E, F, G and H are sitting in a row facing north.</li><li>A is fourth to the right of E.</li><li>H is fourth to the left of D.</li><li>C and F, which are not at the ends, are neighbours of B and E respectively.</li><li>H is next to the left of A and A is the neighbours of B.</li></ol>",
+    "question": "<ol style='text-align:start' type='i'><li>A, B, C, D, E, F, G and H are sitting in a row facing north.</li><li>A is fourth to the right of E.</li><li>H is fourth to the left of D.</li><li>C and F, which are not at the ends, are neighbours of B and E respectively.</li><li>H is next to the left of A and A is the neighbours of B.</li></ol>Which of the following statements is not true?",
+    "options": [
+      "H is second to the right of F.",
+      "E is fourth to the left of A.",
+      "D is fourth to the right of H.",
+      "A is third to the left of D.",
+      "None of these"
+    ],
+    "correct": 4
+  },
+  {
+    "questionNo": "Q20",
+    "content":"<ol type='i'><li>A, B, C, D, E, F, G and H are sitting in a row facing north.</li><li>A is fourth to the right of E.</li><li>H is fourth to the left of D.</li><li>C and F, which are not at the ends, are neighbours of B and E respectively.</li><li>H is next to the left of A and A is the neighbours of B.</li></ol>",
+    "question": "<ol style='text-align:start' type='i'><li>A, B, C, D, E, F, G and H are sitting in a row facing north.</li><li>A is fourth to the right of E.</li><li>H is fourth to the left of D.</li><li>C and F, which are not at the ends, are neighbours of B and E respectively.</li><li>H is next to the left of A and A is the neighbours of B.</li></ol>Which of the following statements is not true? ",
+    "options": [
+      "G is the neighbour of H and E.",
+      "B is next to the right of A.",
+      "E is at left end.",
+      "D is next to the right of B.",
+      "None of these"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q21",
+    
+    "question": "There are six houses in a row. Mr. Lal has Mr. Bhasin and Mr. Sachdeva as neighbours. Mr. Bhatia has Mr. Gupta and Mr. Sharma as neighbours. Mr. Gupta's house is not next to Mr. Bhasin or Mr. Sachdeva and Mr. Sharma does not live next to Mr. Sachdeva. Who are Mr. Bhasin's next door neighbour?",
+    "options": [
+      "Mr. Lal and Mr. Bhasin",
+      "Mr. Lal and Mr. Sachdeva",
+      "Mr. Sharma and Mr. Lal",
+      "Only Mr. Lal",
+      "None of these"
+    ],
+    "correct": 2
+  }
+]

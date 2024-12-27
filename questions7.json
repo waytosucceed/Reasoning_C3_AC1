@@ -1,0 +1,41 @@
+[
+  {
+    "questionNo": "Q25",
+    "content":"Ten students A, B, C, D, E, F, G, H, I and J are sitting in a row facing west.<ol type='i'><li>B and F are not sitting on either of the edges.</li><li>G is sitting to the left of D and H is sitting to the right of J.</li><li>There are four persons between E and A.</li><li>I is to the north of B and F is to  the south of D.</li><li>J is in between A & D and G is in between E and F.</li><li>There are two persons between H and C.</li></ol>",
+    "question": "Ten students A, B, C, D, E, F, G, H, I and J are sitting in a row facing west.<ol style='text-align:start' type='i'><li>B and F are not sitting on either of the edges.</li><li>G is sitting to the left of D and H is sitting to the right of J.</li><li>There are four persons between E and A.</li><li>I is to the north of B and F is to  the south of D.</li><li>J is in between A & D and G is in between E and F.</li><li>There are two persons between H and C.</li></ol>If G and A interchange their positions, then who become the immediate neighbours of E?",
+    "options": [
+      "G and F",
+      "F only",
+      "A only",
+      "J and H",
+      "D only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q26",
+    "content":"Ten students A, B, C, D, E, F, G, H, I and J are sitting in a row facing west.<ol type='i'><li>B and F are not sitting on either of the edges.</li><li>G is sitting to the left of D and H is sitting to the right of J.</li><li>There are four persons between E and A.</li><li>I is to the north of B and F is to  the south of D.</li><li>J is in between A & D and G is in between E and F.</li><li>There are two persons between H and C.</li></ol>",
+    "question": "Ten students A, B, C, D, E, F, G, H, I and J are sitting in a row facing west.<ol style='text-align:start' type='i'><li>B and F are not sitting on either of the edges.</li><li>G is sitting to the left of D and H is sitting to the right of J.</li><li>There are four persons between E and A.</li><li>I is to the north of B and F is to  the south of D.</li><li>J is in between A & D and G is in between E and F.</li><li>There are two persons between H and C.</li></ol>Who among the following is definitely sitting at one of the ends?",
+    "options": [
+      "C",
+      "H",
+      "E",
+      "Can't be determined",
+      "None of these"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q27",
+    "content":"Ten students A, B, C, D, E, F, G, H, I and J are sitting in a row facing west.<ol type='i'><li>B and F are not sitting on either of the edges.</li><li>G is sitting to the left of D and H is sitting to the right of J.</li><li>There are four persons between E and A.</li><li>I is to the north of B and F is to  the south of D.</li><li>J is in between A & D and G is in between E and F.</li><li>There are two persons between H and C.</li></ol>",
+    "question": "Ten students A, B, C, D, E, F, G, H, I and J are sitting in a row facing west.<ol style='text-align:start' type='i'><li>B and F are not sitting on either of the edges.</li><li>G is sitting to the left of D and H is sitting to the right of J.</li><li>There are four persons between E and A.</li><li>I is to the north of B and F is to  the south of D.</li><li>J is in between A & D and G is in between E and F.</li><li>There are two persons between H and C.</li></ol>Who is sitting at the seventh place counting from the left?",
+    "options": [
+      "H",
+      "C",
+      "J",
+      "Either H or C",
+      "None of these"
+    ],
+    "correct": 3
+  }
+]

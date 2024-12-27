@@ -1,0 +1,54 @@
+[
+  {
+    "questionNo": "Q14",
+    "content":"P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:<ol type='i'><li>P is second to the right of T who is the neighbour of R and V.</li><li>S is not the neighbour of P.</li><li>V is the neighbour of U.</li><li>Q is not between S and W. W is not between U and S.</li></ol>",
+    "question": "P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:<ol style='text-align:start' type='i'><li>P is second to the right of T who is the neighbour of R and V.</li><li>S is not the neighbour of P.</li><li>V is the neighbour of U.</li><li>Q is not between S and W. W is not between U and S.</li></ol>Which two of the following are not neigbours?",
+    "options": [
+      "RV",
+      "UV",
+      "RP",
+      "QW",
+      "TV"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15",
+    "content":"P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:<ol type='i'><li>P is second to the right of T who is the neighbour of R and V.</li><li>S is not the neighbour of P.</li><li>V is the neighbour of U.</li><li>Q is not between S and W. W is not between U and S.</li></ol>",
+    "question": "P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:<ol style='text-align:start' type='i'><li>P is second to the right of T who is the neighbour of R and V.</li><li>S is not the neighbour of P.</li><li>V is the neighbour of U.</li><li>Q is not between S and W. W is not between U and S.</li></ol>Which one is immediate right to the V?",
+    "options": [
+      "P",
+      "U",
+      "R",
+      "T",
+      "Q"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q16",
+    "content":"P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:<ol type='i'><li>P is second to the right of T who is the neighbour of R and V.</li><li>S is not the neighbour of P.</li><li>V is the neighbour of U.</li><li>Q is not between S and W. W is not between U and S.</li></ol>",
+    "question": "P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:<ol style='text-align:start' type='i'><li>P is second to the right of T who is the neighbour of R and V.</li><li>S is not the neighbour of P.</li><li>V is the neighbour of U.</li><li>Q is not between S and W. W is not between U and S.</li></ol>Which of the following is correct? ",
+    "options": [
+      "P is to the immediate right of Q",
+      "R is between U and V",
+      "Q is to the immediate left of W ",
+      "U is between W and S",
+      "None of these"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q17",
+    "content":"P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:<ol type='i'><li>P is second to the right of T who is the neighbour of R and V.</li><li>S is not the neighbour of P.</li><li>V is the neighbour of U.</li><li>Q is not between S and W. W is not between U and S.</li></ol>",
+    "question": "P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre:<ol style='text-align:start' type='i'><li>P is second to the right of T who is the neighbour of R and V.</li><li>S is not the neighbour of P.</li><li>V is the neighbour of U.</li><li>Q is not between S and W. W is not between U and S.</li></ol>What is the position of S?",
+    "options": [
+      "Between U and V",
+      "Second to the right of P",
+      "To the immediate right of W",
+      "Data inadequate",
+      "None of these"
+    ],
+    "correct": 2
+  }
+]

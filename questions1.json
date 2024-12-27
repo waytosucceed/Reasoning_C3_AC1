@@ -1,0 +1,28 @@
+[
+  {
+    "questionNo": "Q6",
+    "content":"Eight friends A, B, C, D, E, F, G and H are sitting in a circle facing the centre. B is sitting between G and D. H is third to the left of B and second to the right of A. C is sitting between A and G & B and E are not sitting opposite to each other.",
+    "question": "Eight friends A, B, C, D, E, F, G and H are sitting in a circle facing the centre. B is sitting between G and D. H is third to the left of B and second to the right of A. C is sitting between A and G & B and E are not sitting opposite to each other.<br>Which of the following statement is not correct? ",
+    "options": [
+      "D and A are sitting opposite to each other.",
+      "C is third to the right of D.",
+      "E is sitting between F and D.",
+      "A is sitting between C and F.",
+      "E and C are sitting opposite to each other."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7",
+    "content":"Eight friends A, B, C, D, E, F, G and H are sitting in a circle facing the centre. B is sitting between G and D. H is third to the left of B and second to the right of A. C is sitting between A and G & B and E are not sitting opposite to each other.",
+    "question": "Eight friends A, B, C, D, E, F, G and H are sitting in a circle facing the centre. B is sitting between G and D. H is third to the left of B and second to the right of A. C is sitting between A and G & B and E are not sitting opposite to each other.<br>Who is third to the left of D?",
+    "options": [
+      "F",
+      "E",
+      "A",
+      "Can't be determined",
+      "None of these"
+    ],
+    "correct": 0
+  }
+]
