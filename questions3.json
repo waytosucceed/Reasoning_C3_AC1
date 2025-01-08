@@ -23,7 +23,7 @@
       " Sonia ",
       "None of these"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "questionNo": "Q13",
@@ -36,6 +36,6 @@
       " Sonia ",
       "None of these"
     ],
-    "correct": 0
+    "correct": 1
   }
 ]
