@@ -1,7 +1,7 @@
 [
   {
     "questionNo": "Q1",
-    "content":"<ol type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>",
+    "content":"<ol type='i'><li>Eight persons E, F, G, H, I, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>",
     "question": "<ol style='text-align:start' type='i'><li>Eight persons E, F, G, H, 1, J, K and L are seated around a square table two on each side.</li><li>There are three lady members and they are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member, is second to the left of J.</li><li>F, a male member, is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>How many persons are seated between K and F? ",
     "options": [
       "One",
